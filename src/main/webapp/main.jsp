@@ -12,8 +12,5 @@
   <link rel="stylesheet" href="main.css">
 </head>
 <body>
-<h2>hello</h2>
-<h2>hello2</h2>
-<h2>hello3</h2>
 </body>
 </html>
